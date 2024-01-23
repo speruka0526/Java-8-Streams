@@ -1,2 +1,2 @@
-# Java-8-Streams
-Streams &amp; Collections
+# java8features
+Java 8 Features
